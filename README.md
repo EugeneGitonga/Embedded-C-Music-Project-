@@ -17,7 +17,7 @@ ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH
 ![image](https://user-images.githubusercontent.com/70195777/174504795-41bb1b1c-ff2c-4946-b94f-785c01b6320c.png) #Piezo Speaker
 * This are speakers are frequently used to generate sound in digital quartz watches and other electronic devices. Piezo has been used in this project to output sound when the push button is pressed.
 
-#Resistors
+![image](https://user-images.githubusercontent.com/70195777/174504868-b5d9c080-8d89-4908-a6eb-c07d6c233a3b.png) #Resistors
 * Resistors have been used to limit the amount of current going to certain components in the circuit, such as the push button and the piezo speaker.
 
 #Breadboard
