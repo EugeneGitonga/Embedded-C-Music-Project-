@@ -43,3 +43,6 @@ the button.
 It’s used to vary the pitch of the sound. It calculates the
 corresponding pitch in the pitch array in order to regulate the
 sound frequencies produced.
+
+
+![Components Circuit Design](https://user-images.githubusercontent.com/70195777/174504143-180fb606-8fda-46ac-9095-e8a529592ebe.png)
