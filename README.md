@@ -23,7 +23,7 @@ ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH
 ![image](https://user-images.githubusercontent.com/70195777/174504909-18d6b397-5a2b-448c-bdd5-ab2f71ce3ab8.png) #Breadboard
 * It’s used to build and test circuits quickly before finalizing any circuit design. The breadboard has many holes into which circuit components like push buttons, resistors, potentiometer and jumper wires can be inserted.
 
-#Push Button
+![image](https://user-images.githubusercontent.com/70195777/174504943-2ca1bf4f-7de1-44a6-aa4a-4b114ca9c4c7.png) #Push Button
 * It’s a component that connects two points in a circuit when you press it. The example turns on the piezo speaker when you press the button.
 
 #Potentiometer
