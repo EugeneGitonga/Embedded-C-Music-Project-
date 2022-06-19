@@ -20,7 +20,7 @@ ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH
 ![image](https://user-images.githubusercontent.com/70195777/174504868-b5d9c080-8d89-4908-a6eb-c07d6c233a3b.png) #Resistors
 * Resistors have been used to limit the amount of current going to certain components in the circuit, such as the push button and the piezo speaker.
 
-#Breadboard
+![image](https://user-images.githubusercontent.com/70195777/174504909-18d6b397-5a2b-448c-bdd5-ab2f71ce3ab8.png) #Breadboard
 * It’s used to build and test circuits quickly before finalizing any circuit design. The breadboard has many holes into which circuit components like push buttons, resistors, potentiometer and jumper wires can be inserted.
 
 #Push Button
