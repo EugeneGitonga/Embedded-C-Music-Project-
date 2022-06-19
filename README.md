@@ -14,8 +14,7 @@ ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH
 #The Components used in my Circuit design are as seen in the Screenshot below
 ![Components Circuit Design](https://user-images.githubusercontent.com/70195777/174504143-180fb606-8fda-46ac-9095-e8a529592ebe.png)
 
-#Piezo Speaker
-![image](https://user-images.githubusercontent.com/70195777/174504795-41bb1b1c-ff2c-4946-b94f-785c01b6320c.png)
+![image](https://user-images.githubusercontent.com/70195777/174504795-41bb1b1c-ff2c-4946-b94f-785c01b6320c.png) #Piezo Speaker
 * This are speakers are frequently used to generate sound in digital quartz watches and other electronic devices. Piezo has been used in this project to output sound when the push button is pressed.
 
 #Resistors
