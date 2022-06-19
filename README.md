@@ -18,6 +18,10 @@ input pin which I chose A3.
 creates music. The Arduino generates a signal and outputs it through the
 Digital pin 8. This drives the speaker connected to the pin to create sound.
 
+<u>ARDUINO WIRING DIAGRAM TO CONTROL A PIEZO BUZZER WITH A BUTTON</u>
+* The Components used in my Circuit design are as seen in the Screenshot below
+![Components Circuit Design](https://user-images.githubusercontent.com/70195777/174504143-180fb606-8fda-46ac-9095-e8a529592ebe.png)
+
 #Piezo Speaker
 This are speakers are frequently used to generate sound in digital
 quartz watches and other electronic devices. Piezo has been used
@@ -44,8 +48,6 @@ It’s used to vary the pitch of the sound. It calculates the
 corresponding pitch in the pitch array in order to regulate the
 sound frequencies produced.
 
-
-<u>ARDUINO WIRING DIAGRAM TO CONTROL A PIEZO BUZZER WITH A BUTTON</u>
-This Circuit diagram below will display connections all of the components listed
-previously to the Arduino.
-![Components Circuit Design](https://user-images.githubusercontent.com/70195777/174504143-180fb606-8fda-46ac-9095-e8a529592ebe.png)
+<u> ARDUINO WIRING DIAGRAM TO CONTROL A PIEZO BUZZER WITH A BUTTON </U>
+* This Circuit diagram below will display connections all of the components listed previously to the Arduino.
+![Arduino Wiring Diagram](https://user-images.githubusercontent.com/70195777/174504339-5de87f1e-9a79-4d79-91f4-a460d8a65693.png)
