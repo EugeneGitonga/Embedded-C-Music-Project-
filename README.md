@@ -1,22 +1,15 @@
 # C-Arduino-Project-Music-
-Arduino Project That Plays Tones Of Different Frequencies Through Piezo (Speaker)
+ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH A SPEAKER IN A GIVEN ARDUINO CIRCUIT.
 
 #Steps Involved
-* To start out, I will set up the piezo (speaker) on the breadboard of the
-Arduino on Tinkercad.
-▪ One side of it “the shorter leg side” of the piezo needs to run to ground
-(GND) through connecting with the terminal 1 of the potentiometer with
-the negative terminal of the speaker.
-▪ The other side “the longer leg side” needs to connect to a digital output pin.
-▪ A pair of transistors will be connected along this connection.
-▪ Next, I will set up the push button that will link the piezzo with the digital
-pin 8 directly through its positive terminal.
-▪ Lastly the potentiometers wiper terminal will be connected directly to an
-input pin which I chose A3.
-▪ The other terminal 2 will be connected to the 5v pin.
-▪ The variation of the frequency of the tone (pitch) with correct timings
-creates music. The Arduino generates a signal and outputs it through the
-Digital pin 8. This drives the speaker connected to the pin to create sound.
+* To start out, I will set up the piezo (speaker) on the breadboard of the Arduino on Tinkercad.
+* One side of it “the shorter leg side” of the piezo needs to run to ground (GND) through connecting with the terminal 1 of the potentiometer with the negative terminal of the speaker.
+* The other side “the longer leg side” needs to connect to a digital output pin.
+* A pair of transistors will be connected along this connection.
+* Next, I will set up the push button that will link the piezzo with the digital pin 8 directly through its positive terminal.
+* Lastly the potentiometers wiper terminal will be connected directly to an input pin which I chose A3.
+* The other terminal 2 will be connected to the 5v pin.
+* The variation of the frequency of the tone (pitch) with correct timings creates music. The Arduino generates a signal and outputs it through theDigital pin 8.This drives the speaker connected to the pin to create sound.
 
 <u>ARDUINO WIRING DIAGRAM TO CONTROL A PIEZO BUZZER WITH A BUTTON</u>
 * The Components used in my Circuit design are as seen in the Screenshot below
