@@ -2,7 +2,7 @@
 Arduino Project That Plays Tones Of Different Frequencies Through Piezo (Speaker)
 
 #Steps Involved
-▪ To start out, I will set up the piezo (speaker) on the breadboard of the
+* To start out, I will set up the piezo (speaker) on the breadboard of the
 Arduino on Tinkercad.
 ▪ One side of it “the shorter leg side” of the piezo needs to run to ground
 (GND) through connecting with the terminal 1 of the potentiometer with
@@ -45,4 +45,7 @@ corresponding pitch in the pitch array in order to regulate the
 sound frequencies produced.
 
 
+<u>ARDUINO WIRING DIAGRAM TO CONTROL A PIEZO BUZZER WITH A BUTTON</u>
+This Circuit diagram below will display connections all of the components listed
+previously to the Arduino.
 ![Components Circuit Design](https://user-images.githubusercontent.com/70195777/174504143-180fb606-8fda-46ac-9095-e8a529592ebe.png)
