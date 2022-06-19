@@ -11,8 +11,7 @@ ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH
 * The other terminal 2 will be connected to the 5v pin.
 * The variation of the frequency of the tone (pitch) with correct timings creates music. The Arduino generates a signal and outputs it through theDigital pin 8.This drives the speaker connected to the pin to create sound.
 
-<u>ARDUINO WIRING DIAGRAM TO CONTROL A PIEZO BUZZER WITH A BUTTON</u>
-* The Components used in my Circuit design are as seen in the Screenshot below
+#The Components used in my Circuit design are as seen in the Screenshot below
 ![Components Circuit Design](https://user-images.githubusercontent.com/70195777/174504143-180fb606-8fda-46ac-9095-e8a529592ebe.png)
 
 #Piezo Speaker
