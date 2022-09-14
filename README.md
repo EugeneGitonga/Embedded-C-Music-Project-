@@ -1,8 +1,8 @@
 # Arduino-Music-Project
 
-## ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH A SPEAKER IN A GIVEN ARDUINO CIRCUIT.
+### ARDUINO PROJECT THAT CREATES TONES OF DIFFERENT FREQUENCIES AND PLAYS IT THROUGH A SPEAKER IN A GIVEN ARDUINO CIRCUIT.
 
-#Steps Involved
+### Steps Involved
 * To start out, I will set up the piezo (speaker) on the breadboard of the Arduino on Tinkercad.
 * One side of it “the shorter leg side” of the piezo needs to run to ground (GND) through connecting with the terminal 1 of the potentiometer with the negative terminal of the speaker.
 * The other side “the longer leg side” needs to connect to a digital output pin.
